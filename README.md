@@ -1,7 +1,7 @@
 # JS-Iteration-Over-Objects-Part1
 
 ## Instructions
-
+j
 - Fork and clone [this repository](https://github.com/JoinCODED/JS-Iteration-Over-Objects-Part1) to your `Development` folder.
   - ```bash
     git clone git@github.com:<your_username>/JS-Iteration-Over-Objects-Part1.git
